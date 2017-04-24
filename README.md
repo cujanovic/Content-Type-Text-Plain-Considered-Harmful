@@ -1,6 +1,6 @@
 # Content-Type Text/Plain Considered Harmful
 
-https://jankopecky.net/index.php/2017/04/18/0day-textplain-considered-harmful/
+https://webcache.googleusercontent.com/search?q=cache:https://jankopecky.net/index.php/2017/04/18/0day-textplain-considered-harmful/
 
 ***
 ### Files:
